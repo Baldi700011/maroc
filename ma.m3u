@@ -3,3 +3,5 @@
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_hy217612tge1f21j83/2m_monde.m3u8
 #EXTINF:0,Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:0,Chada TV
+https://edge7.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
