@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0,2M
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_hy217612tge1f21j83/2m_monde.m3u8
+https://www.elahmad.com/tv/bitmovin.php?id=2m_monde
 #EXTINF:0,Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
